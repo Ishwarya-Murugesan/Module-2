@@ -123,7 +123,7 @@ for i in range(n):
 ## Result
 Thus, the program is executed successfully.
 
-## Loops in Python: Palindrome Number Checker
+# Loops in Python: Palindrome Number Checker
 
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
